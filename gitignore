@@ -1,0 +1,13 @@
+# Secrets and local configuration
+.env
+sw_profiles.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs / OS
+*.log
+.DS_Store

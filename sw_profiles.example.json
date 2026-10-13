@@ -1,0 +1,20 @@
+{
+  "20.": {
+    "hw_version": "HW-A",
+    "branch_config_testcases": "release/branch-a",
+    "database_path": "database-a",
+    "program": "program-a"
+  },
+  "101.": {
+    "hw_version": "HW-B",
+    "branch_config_testcases": "release/branch-b",
+    "database_path": "database-b",
+    "program": "program-b"
+  },
+  "102.": {
+    "hw_version": "HW-C",
+    "branch_config_testcases": "release/branch-b",
+    "database_path": "database-b",
+    "program": "program-c"
+  }
+}
